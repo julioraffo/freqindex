@@ -1,0 +1,15 @@
+v 3
+d freqindex. Generates an index of terms from string variable
+d {bf:J. Raffo, WIPO, Economics and Statistics Division}
+d {bf:freqindex} indexes each singular term in a given 
+d string variable from the current dataset and computes 
+d its frequencies.  It returns a new dataset containing 
+d a string variable listing the terms and a numeric 
+d variable with the corresponding frequencies.  
+d After installation, see help {bf:freqindex}.
+d
+d Distribution-Date: 20170406
+d
+d Support: email julio.raffo@wipo.int
+f freqindex.ado
+f freqindex.sthlp
