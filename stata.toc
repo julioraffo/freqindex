@@ -1,0 +1,5 @@
+v 3
+d Text similarity matching materials
+d J. Raffo, WIPO Economics and Statistics Division
+d
+p freqindex generates frequencies of grams from text var
